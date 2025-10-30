@@ -18,11 +18,11 @@ A análise revelou um "clustering de comportamentos de risco":
 
 | Histograma de Idade | Boxplot: Idade vs. Álcool |
 | :---: | :---: |
-| ![Histograma de Idade](histograma_idade.png) | ![Boxplot Idade vs Álcool](boxplot_idade_vs_alcool.png) |
+| ![Histograma de Idade](analise_vigitel_natal/histograma_idade.png) | ![Boxplot Idade vs Álcool](analise_vigitel_natal/boxplot_idade_vs_alcool.png) |
 
 | Gráfico de Barras: Álcool | Gráfico de Dispersão: Idade vs. IMC |
 | :---: | :---: |
-| ![Gráfico de Barras](barras_alcool_final.png) | ![Gráfico de Dispersão](dispersao_idade_imc.png) |
+| ![Gráfico de Barras](analise_vigitel_natal/barras_alcool_final.png) | ![Gráfico de Dispersão](analise_vigitel_natal/dispersao_idade_imc.png) |
 
 
 ## 🛠️ Metodologia
